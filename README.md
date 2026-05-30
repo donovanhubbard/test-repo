@@ -8,3 +8,5 @@ This is the third commit.
 And a fourth commit!
 
 Commit number 5
+
+Commit number 6.
